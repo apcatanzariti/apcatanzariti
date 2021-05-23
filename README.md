@@ -38,9 +38,6 @@
   <div class="Box-body p-4">
     <div class="d-flex flex-justify-between">
       <div class="text-mono text-small mb-3">
-        <a href="/dvonpingel/dvonpingel" class="no-underline Link--primary">dvonpingel</a><span class="color-text-tertiary d-inline-block" style="padding:0px 2px;">/</span>README<span class="color-text-tertiary">.md</span>
-      </div>
-<p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/bdb41eb2b9110d5df210d746341d373356371ffecf01c30306a004a20ad5642b/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d64766f6e70696e67656c2e64766f6e70696e67656c"><img src="https://camo.githubusercontent.com/bdb41eb2b9110d5df210d746341d373356371ffecf01c30306a004a20ad5642b/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d64766f6e70696e67656c2e64766f6e70696e67656c" alt="visitors" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=dvonpingel.dvonpingel" style="max-width:100%;"></a></p>
 <ul>
 <li><g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> I'm a 20 year old web developer from Utah, currently in my final month of studying at Lambda School.</li>
 <li><g-emoji class="g-emoji" alias="desktop_computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5a5.png">🖥️</g-emoji> I love all things coding, gaming, reading, and music.</li>
