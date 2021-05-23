@@ -30,10 +30,8 @@
 <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="max-width:100%;"></a></code>
 </p>
 
-<div>
 
-
-        <div class="position-relative">
+  <div class="position-relative">
           
       
   <div class="Box mt-4" >
@@ -42,9 +40,6 @@
       <div class="text-mono text-small mb-3">
         <a href="/dvonpingel/dvonpingel" class="no-underline Link--primary">dvonpingel</a><span class="color-text-tertiary d-inline-block" style="padding:0px 2px;">/</span>README<span class="color-text-tertiary">.md</span>
       </div>
-
-    </div>
-    <article class="markdown-body entry-content container-lg f5" itemprop="text"><h3><a id="user-content-hi-there-im-dartagnan-von-pingel-" class="anchor" aria-hidden="true" href="#hi-there-im-dartagnan-von-pingel-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Hi there, I'm <a href="https://dartagnan.tech/" rel="nofollow">D'Artagnan von Pingel</a> <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji></h3>
 <p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/bdb41eb2b9110d5df210d746341d373356371ffecf01c30306a004a20ad5642b/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d64766f6e70696e67656c2e64766f6e70696e67656c"><img src="https://camo.githubusercontent.com/bdb41eb2b9110d5df210d746341d373356371ffecf01c30306a004a20ad5642b/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d64766f6e70696e67656c2e64766f6e70696e67656c" alt="visitors" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=dvonpingel.dvonpingel" style="max-width:100%;"></a></p>
 <ul>
 <li><g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> I'm a 20 year old web developer from Utah, currently in my final month of studying at Lambda School.</li>
