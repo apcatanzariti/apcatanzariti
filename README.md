@@ -38,12 +38,13 @@
   <div class="Box-body p-4">
     <div class="d-flex flex-justify-between">
       <div class="text-mono text-small mb-3">
+<h3>Hi there, my name is Anthony Catanzariti 🙋‍♂️</h3>
 <ul>
 <li>🔭 I’m currently working on: a monitoring and evaluation platform for Family Promise</li>
 <li>🌱 I’m currently learning: everything! Always learning about the languages I use most, but looking to learn more about game dev specifically</li>
 <li>👯 I’m looking to collaborate on: any project that grabs me, but I tend to be drawn to front-end UX/UI projects</li>
 <li>🤔 I’m looking for help with: learning game dev</li>
-<li>💬 Ask me about: LotR</li>
+<li>🧙‍♂️ Ask me about: LotR</li>
 <li>📫 How to reach me: apcatanzariti@gmail.com -or- <a href="https://www.linkedin.com/in/anthony-catanzariti/">LinkedIn</a></li>
 <li>⚡ Fun fact: My degree is actually in Metabolc Science and Nutrition</li>
 </ul>
