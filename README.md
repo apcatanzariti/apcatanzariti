@@ -7,7 +7,7 @@
 <ul>
 <li>🔭 I’m currently working on: Custom Salesforce functionality for a national labratory.</li>
 <li>🌱 I’m currently learning: Everything. Always learning about the languages I use most, but looking to learn more about game dev specifically.</li>
-<li>👯 I’m looking to collaborate on: any project that grabs me, but I tend to be drawn to front-end UX/UI projects</li>
+<li>👯 I’m looking to collaborate on: Any project that grabs me, but I tend to be drawn to front-end UX/UI projects.</li>
 <li>🤔 I’m looking for help with: Learning game dev</li>
 <li>🧙‍♂️ Ask me about: LotR</li>
 <li>📫 How to reach me: apcatanzariti@gmail.com -or- <a href="https://www.linkedin.com/in/anthony-catanzariti/">LinkedIn</a></li>
