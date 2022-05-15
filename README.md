@@ -5,13 +5,13 @@
 <div class="text-mono text-small mb-3">
 <h3>Hi there, my name is Anthony Catanzariti 🙋‍♂️</h3>
 <ul>
-<li>🔭 I’m currently working on: a monitoring and evaluation platform for Family Promise</li>
-<li>🌱 I’m currently learning: everything! Always learning about the languages I use most, but looking to learn more about game dev specifically</li>
+<li>🔭 I’m currently working on: Custom Salesforce functionality for a national labratory.</li>
+<li>🌱 I’m currently learning: Everything. Always learning about the languages I use most, but looking to learn more about game dev specifically.</li>
 <li>👯 I’m looking to collaborate on: any project that grabs me, but I tend to be drawn to front-end UX/UI projects</li>
-<li>🤔 I’m looking for help with: learning game dev</li>
+<li>🤔 I’m looking for help with: Learning game dev</li>
 <li>🧙‍♂️ Ask me about: LotR</li>
 <li>📫 How to reach me: apcatanzariti@gmail.com -or- <a href="https://www.linkedin.com/in/anthony-catanzariti/">LinkedIn</a></li>
-<li>⚡ Fun fact: My degree is actually in Metabolc Science and Nutrition</li>
+<li>⚡ Fun fact: My formal degree is in Metabolc Science and Nutrition</li>
 </ul>
 <h3>Languages // Technologies</h3>
 <p><code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width:100%;"></a></code>
